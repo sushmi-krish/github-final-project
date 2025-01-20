@@ -24,7 +24,7 @@ This is a simple shell script calculates the "simple interest" based on the prin
    t, time period in years
    r, annual rate of interest
 ## The script will then calculate and display the Simple Interest (SI) using the formula:
-      Simple Interest (SI) = (P * R * T) / 100
+     simple Interest (SI) =(p * r * t) / 100
 # License:
   This script is provided for educational purposes and is open-source. Feel Free to Modify 
 ## Acknowledgments
